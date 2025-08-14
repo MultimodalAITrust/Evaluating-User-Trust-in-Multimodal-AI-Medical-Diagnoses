@@ -1,1 +1,9 @@
 .DS_Store
+
+# Ignore everything inside model_training
+model_training/*
+
+# But keep Python and Jupyter Notebook files
+!model_training/*.py
+!model_training/*.ipynb
+
