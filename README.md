@@ -1,11 +1,11 @@
 # Evaluating-User-Trust-in-Multimodal-AI-Medical-Diagnoses
 
-## 📌 Project Overview
+## Project Overview
 Large multimodal language models (MLLMs) such as **LLaVA** and **BLIP-2** have unlocked new possibilities for **AI-assisted medical diagnosis** by bridging vision and language. However, in medical contexts, **trust** goes beyond accuracy — it depends on:
 
-- ✅ Clarity of explanations  
-- ✅ Calibrated uncertainty  
-- ✅ Resource-efficient deployment
+- Clarity of explanations  
+- Calibrated uncertainty  
+- Resource-efficient deployment
 
 We conducted a **two-phase study** to evaluate user trust in **general-purpose** vs. **medically trained** LLMs for diagnostic tasks.
 
@@ -24,8 +24,8 @@ We conducted a **two-phase study** to evaluate user trust in **general-purpose**
 
 ---
 
-## ⚠️ Key Challenges Identified
-- ❌ Domain-specific models: better accuracy but **poor explanation accessibility**  
-- ❌ Lack of **native multimodal integration**  
-- ❌ High **compute & memory requirements** (LLaVA & LLaVA-Med)  
-- ❌ Limited expertise in **medical vision encoders**  
+## Key Challenges Identified
+- Domain-specific models: better accuracy but **poor explanation accessibility**  
+- Lack of **native multimodal integration**  
+- High **compute & memory requirements** (LLaVA & LLaVA-Med)  
+- Limited expertise in **medical vision encoders**  
