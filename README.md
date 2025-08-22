@@ -11,7 +11,7 @@ We conducted a **two-phase study** to evaluate user trust in **general-purpose**
 
 ---
 
-## 🧪 Study Phases
+## Study Phases
 
 ### **Phase 1: Formal User Study**
 - **Models Tested:** Gemini 1.5 Pro *(general)* vs. BioGPT *(medical, BLIP-2 vision grounding)*
